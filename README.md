@@ -243,23 +243,24 @@ parking-dynamic-pricing/
 │   └── competitor_map.json              # Competitor proximity graph
 │
 ├── 📂 notebooks/
-│   ├── 01_Notebook_1_Data_Loading_&_Exploratory_Data_Analysis.ipynb                # Exploratory analysis
-│   ├── 02_Notebook_2_Feature_Engineering_&_Utility_Functions.ipynb                 # Feature creation
-│   ├── 03_Notebook_3_The_Three_Pricing_Models.ipynb                                # 3 pricing models
-│   ├── 04_Notebook_4_Real-Time_Simulation_without_Pathway.ipynb                    # Sequential processing
-│   ├── 05_Notebook_5_Interactive_Bokeh_Visualizations.ipynb                        # Dashboards
-│   └── 06_Project_Report_Documentation.ipynb                                       # Complete report
+│   ├── Notebook 1 Data Loading & Exploratory Data Analysis.ipynb                # Exploratory analysis
+│   ├── Notebook 2 Feature Engineering & Utility Functions.ipynb                 # Feature creation
+│   ├── Notebook 3 The Three Pricing Models.ipynb                                # 3 pricing models
+│   ├── Notebook 4 Real-Time Simulation without Pathway.ipynb                    # Sequential processing
+│   ├── Notebook 5 Interactive Bokeh Visualizations.ipynb                        # Dashboards
+│   └── Project Report Documentation.ipynb                                       # Complete report
 │
 ├── 📂 figures/
-│   ├── 01_distribution_analysis.png     # Data distributions
-│   ├── 02_temporal_patterns.png         # Hourly/daily patterns
-│   ├── 03_feature_relationships.png     # Correlation analysis
-│   ├── 04_correlation_heatmap.png       # Feature correlations
-│   ├── 05_proximity_matrix.png          # Competitor distances
-│   ├── 06_feature_importance.png        # Feature rankings
-│   ├── 07_model_comparison.png          # Model performance
-│   ├── 08_realtime_simulation.png       # Simulation results
+│   ├── 01_distribution_analysis.png       # Data distributions
+│   ├── 02_temporal_patterns.png           # Hourly/daily patterns
+│   ├── 03_feature_relationships.png       # Correlation analysis
+│   ├── 04_correlation_heatmap.png         # Feature correlations
+│   ├── 05_proximity_matrix.png            # Competitor distances
+│   ├── 06_feature_importance.png          # Feature rankings
+│   ├── 07_model_comparison.png            # Model performance
+│   ├── 08_realtime_simulation.png         # Simulation results
 │   └── interactive_pricing_dashboard.html # Live Bokeh dashboard
+|
 │
 ├── 📄 README.md                          # This file
 ├── 📄 requirements.txt                   # Python dependencies
