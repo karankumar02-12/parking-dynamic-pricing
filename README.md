@@ -530,20 +530,16 @@ in the Software without restriction...
 
 ## 👤 Contact
 
-**[Your Name]**  
-Data Science Student | [Your University]
+**[Karan Kumar]**  
 
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-🐙 **GitHub:** [@yourusername](https://github.com/yourusername)
+🐙 **GitHub:** [karankumar02-12](https://github.com/yourusername)
+📧 **Email:** karan.kumar021299@gmail.com 
 
 ---
 
 ## 🙏 Acknowledgments
 
 - **Summer Analytics 2025** - Consulting & Analytics Club for the opportunity
-- **Project Mentors** - For guidance and feedback
 - **Urban Planning Research** - For real-world parking data insights
 - **Open Source Community** - NumPy, Pandas, Bokeh developers
 
