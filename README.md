@@ -559,9 +559,9 @@ git clone https://github.com/yourusername/parking-dynamic-pricing.git
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/parking-dynamic-pricing?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/parking-dynamic-pricing?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/parking-dynamic-pricing?style=social)
+![GitHub stars](https://img.shields.io/github/stars/karankumar02-12/parking-dynamic-pricing?style=social)
+![GitHub forks](https://img.shields.io/github/forks/karankumar02-12/parking-dynamic-pricing?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/karankumar02-12/parking-dynamic-pricing?style=social)
 
 **Lines of Code:** ~2,000+  
 **Notebooks:** 6 comprehensive  
